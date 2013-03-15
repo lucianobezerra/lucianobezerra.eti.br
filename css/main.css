@@ -34,7 +34,18 @@ h2{
   display: block;
   font-size: 25px;
   font-weight: bold;
-  text-shadow: 0 2px 0 #FFFFFF;}
+  text-shadow: 0 2px 0 #FFFFFF;
+  padding-bottom: 12px;
+}
+
+h3{
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0 2px 0 #FFFFFF;
+  padding-top: 12px;
+}
+
 img {
   border: none;
   vertical-align: middle;
